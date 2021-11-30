@@ -45,7 +45,10 @@ body {
     .column-3 {
         width: 100%;
     }
-    ç .column-4 {
+    .column-4 {
         width: 50%;
+    }
+    #diez {
+        width: 100%;
     }
 }
